@@ -1,4 +1,3 @@
 # euler_method
-This C++ program was created as an solution to a test question. 2011, Set B1, Question no. 1.
-It provides a method to solve second order differential equations known as Euler method.
-Fulfills the provided initial conditions.
+This C++ program provides a method to solve second-order differential equations known as the Euler method.
+Takes in initial conditions as a user input.
